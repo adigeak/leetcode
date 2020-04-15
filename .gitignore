@@ -1,3 +1,4 @@
 ans
 *.o
 c-c++/*.exe
+.vscode/*
